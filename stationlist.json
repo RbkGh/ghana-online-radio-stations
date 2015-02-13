@@ -3,18 +3,18 @@
         "title": "Joy FM",
         "image": "http://s6.postimg.org/ajj36zy1d/joyfm.jpg",
         "frequency": 99.7
-         "url":"http://67.159.60.45:8000/"
+         "url": "http://67.159.60.45:8000/"
     },
     {
         "title": "Adom FM",
         "image": "http://s6.postimg.org/xu1ugezv1/Adom.jpg",
         "frequency": 106.3
-        "url":"http://67.159.60.45:8002/"
+        "url": "http://67.159.60.45:8002/"
     },
     {
         "title": "CITI FM",
         "image": "http://www.citifmonline.com/wp-content/uploads/2015/01/LOGO1.jpg",
         "frequency": 97.3
-         "url":"http://citifm.primcast.com:4854"
+         "url": "http://citifm.primcast.com:4854"
     }
 ]
